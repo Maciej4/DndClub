@@ -2,5 +2,4 @@
 
 Enjoy your stay
 
-Link to this website:
-https://maciej4.github.io/DndClub/
+[Link to this website](https://maciej4.github.io/DndClub/)
