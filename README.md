@@ -1,4 +1,4 @@
-# Welcome to the DndClub website repo
+# Welcome to the Dnd Club website
 
 Enjoy your stay.
 
