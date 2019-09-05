@@ -2,8 +2,6 @@
 
 Enjoy your stay.
 
-[Link to this website](https://maciej4.github.io/DndClub/)
-
 ---
 
 ## What is DnD?
