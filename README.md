@@ -33,3 +33,5 @@ This website in an extremely useful tool for the automation and simplification o
 ## Club information
 
 Meeting times: TBD
+
+Discord: TBD
