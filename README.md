@@ -1,4 +1,4 @@
-# Welcome to the Dnd Club website
+# Welcome to the DnD Club website
 
 Enjoy your stay.
 
