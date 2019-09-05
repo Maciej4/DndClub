@@ -4,6 +4,8 @@ Enjoy your stay.
 
 [Link to this website](https://maciej4.github.io/DndClub/)
 
+---
+
 ## What is DnD?
 
 ### Excerpt from wikipedia article
@@ -27,6 +29,8 @@ In addition there is a second category of content for the game: Homebrew. This c
 [dndbeyond.com](https://www.dndbeyond.com/)
 
 This website in an extremely useful tool for the automation and simplification of some boring tasks in DnD. It provides the ability to create, utilize and share characters. It also allows the purchase of online copies of WoTC content, which allows you to add the additional traits and features from the books to your dndbeyond characters. One thing to note before you purchase a book is that you are able to share content between different people to an extent using online campaign, if you want to know more about this, ask your DM or [look at this article](https://dndbeyond.zendesk.com/hc/en-us/articles/115011257067-Campaign-Content-Sharing-and-You).
+
+---
 
 ## Club information
 
