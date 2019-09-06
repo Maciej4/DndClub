@@ -32,7 +32,7 @@ This website in an extremely useful tool for the automation and simplification o
 
 ## Club information
 
-### Meeting times: TBD
+### Meeting times:
 
 |Date|Time|Location|
 |---|---|---|
