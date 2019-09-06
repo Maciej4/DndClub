@@ -34,4 +34,12 @@ This website in an extremely useful tool for the automation and simplification o
 
 Meeting times: TBD
 
-Discord: TBD
+|Date|Time|Location|
+|---|---|---|
+|18 Nov 1972|Tutorial|Island of Texas|
+
+Discord:
+
+[Lmao No](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/bloomberg.gif)
+
+TODO: Edit link
