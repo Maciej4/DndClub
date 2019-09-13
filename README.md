@@ -36,7 +36,7 @@ This website in an extremely useful tool for the automation and simplification o
 
 |Date|Time|Location|
 |---|---|---|
-|18 Nov 1972|Tutorial|Island of Texas|
+|19 Sep 2019|Tutorial|Room #: 505 & 506|
 
 ### Discord: 
 
