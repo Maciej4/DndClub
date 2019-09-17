@@ -40,4 +40,4 @@ If you have not already joined the discord, please do so.
 
 ### Meeting times:
 
-Please look in the 'announcements' channel on Discord. Generally the club meets in rooms 505-506 during tutorial.
+Please look in the `announcements` channel on Discord. Generally the club meets in rooms 505-506 during tutorial.
