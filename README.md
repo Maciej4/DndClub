@@ -1,10 +1,12 @@
-# Welcome to the DnD Club website
+# Welcome to the LGHS Roleplaying Club Website
 
 Enjoy your stay.
 
 ---
 
-## What is DnD?
+## Dungeons & Dragons
+
+This is likely the most popular roleplaying game the club will play.
 
 ### Excerpt from wikipedia article
 
@@ -27,6 +29,12 @@ In addition there is a second category of content for the game: Homebrew. This c
 [dndbeyond.com](https://www.dndbeyond.com/)
 
 This website in an extremely useful tool for the automation and simplification of some boring tasks in DnD. It provides the ability to create, utilize and share characters. It also allows the purchase of online copies of WoTC content, which allows you to add the additional traits and features from the books to your dndbeyond characters. One thing to note before you purchase a book is that you are able to share content between different people to an extent using online campaign, if you want to know more about this, ask your DM or [look at this article](https://dndbeyond.zendesk.com/hc/en-us/articles/115011257067-Campaign-Content-Sharing-and-You).
+
+---
+
+## Other Major Roleplaying Games
+
+There are hundreds, if not thousands, of roleplaying games. There are many examples of these: Pathfinder, Call of Cthulhu, etc. Generally, they are relativly similar to DnD in the sense that they involve a group of people roleplaying. If you want to learn more about these you can search them up.
 
 ---
 
