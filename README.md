@@ -32,14 +32,12 @@ This website in an extremely useful tool for the automation and simplification o
 
 ## Club information
 
-### Meeting times:
-
-|Date|Time|Location|
-|---|---|---|
-|19 Sep 2019|Tutorial|Room #: 505 & 506|
-
 ### Discord: 
 
-[Lmao No](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/bloomberg.gif)
+If you have not already joined the discord, please do so.
 
-TODO: Add actual link
+[Discord Invite Link](https://discord.gg/MYpwrgw)
+
+### Meeting times:
+
+Please look in the 'announcements' channel on Discord. Generally the club meets in rooms 505-506 during tutorial.
