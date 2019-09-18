@@ -46,6 +46,10 @@ If you have not already joined the discord, please do so.
 
 {::nomarkdown}
 
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 <iframe src="https://discordapp.com/widget?id=619036133891899404&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 {:/}
