@@ -44,6 +44,12 @@ There are hundreds, if not thousands, of roleplaying games. There are many examp
 
 If you have not already joined the discord, please do so.
 
+{::nomarkdown}
+
+<iframe src="https://discordapp.com/widget?id=619036133891899404&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+{:/}
+
 [Discord Invite Link](https://discord.gg/MYpwrgw)
 
 ### Meeting times:
